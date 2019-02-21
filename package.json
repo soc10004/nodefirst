@@ -1,0 +1,21 @@
+{
+  "name": "nodefirst",
+  "version": "1.0.0",
+  "description": "mon premiere node_express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ghost",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "brain.js": "^1.6.1",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "mysql": "^2.16.0",
+    "net": "^1.0.2",
+    "request": "^2.88.0"
+  }
+}
